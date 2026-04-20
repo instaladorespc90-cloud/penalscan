@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-google-genai
-google-generativeai
-duckduckgo-search
-httpx
-pydantic
